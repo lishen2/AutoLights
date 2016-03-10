@@ -13,7 +13,8 @@ Hardware feature
 
 Progress
 ----------------
-20160301：Basic architecture of software and hardware in mind. Use simple algorithm KNN.
+20160301: Basic architecture of software and hardware in mind. Use simple algorithm KNN.
+20160310: Begin writing code
 
 Development blog
 ---------------
@@ -35,6 +36,7 @@ Development blog
 当前进度
 ---------------
 20160301：设备软硬件架构有大致的思路，算法选择最简单的KNN。
+20160310：开始编写代码
 
 开发博客
 ---------------
