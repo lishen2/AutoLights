@@ -38,6 +38,4 @@ Development blog
 
 开发博客
 ---------------
-开发博客
---------
 <http://blog.sina.com.cn/lgeek>  TODO, 暂时还没有文章
